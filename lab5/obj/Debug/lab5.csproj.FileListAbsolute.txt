@@ -1,0 +1,7 @@
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\bin\Debug\lab5.exe.config
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\bin\Debug\lab5.exe
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\bin\Debug\lab5.pdb
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\obj\Debug\lab5.exe
+G:\НГТУ\МАГА\ДЗ по ООП\lab5\obj\Debug\lab5.pdb

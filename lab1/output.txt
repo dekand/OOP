@@ -1,0 +1,17 @@
+F150 pickup 5,4 300
+F150 pickup 4,6 231
+Maverick sedan 4 265
+Focus 2 sedan 2,3 350
+Mustang Unspecified 2,2 85
+Mondeo 3 Unspecified 2,2 125
+Ford C-MAX Unspecified 2 136
+Mondeo 4 sedan 2 130
+Mondeo 2 sedan 1,8 110
+Ford C-MAX Unspecified 1,6 0
+Focus sedan 1,6 270
+Ford C-MAX hatchback 1,6 0
+Ford C-MAX hatchback 1,6 109
+Galaxy hatchback 1,5 130
+Fusion coupe 1,2 115
+Mondeo 1 Unspecified 0 88
+Mondeo 5 sedan 0 155
