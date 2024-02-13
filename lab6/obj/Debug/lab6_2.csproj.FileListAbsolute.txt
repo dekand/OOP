@@ -1,0 +1,10 @@
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\bin\Debug\lab6_2.exe.config
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\bin\Debug\lab6_2.exe
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\bin\Debug\lab6_2.pdb
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.csproj.AssemblyReference.cache
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.Form1.resources
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.Properties.Resources.resources
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.csproj.GenerateResource.cache
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.exe
+G:\НГТУ\МАГА\ДЗ по ООП\lab6_2\obj\Debug\lab6_2.pdb

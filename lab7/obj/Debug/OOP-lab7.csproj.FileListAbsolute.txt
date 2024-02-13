@@ -1,0 +1,10 @@
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\bin\Debug\OOP-lab7.exe.config
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\bin\Debug\OOP-lab7.exe
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\bin\Debug\OOP-lab7.pdb
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP-lab7.csproj.AssemblyReference.cache
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP_lab7.Form1.resources
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP_lab7.Properties.Resources.resources
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP-lab7.csproj.GenerateResource.cache
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP-lab7.csproj.CoreCompileInputs.cache
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP-lab7.exe
+G:\НГТУ\МАГА\ДЗ по ООП\OOP-lab7\obj\Debug\OOP-lab7.pdb
